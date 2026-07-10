@@ -460,7 +460,7 @@ function TiendaSection() {
 
               <h3 className="font-serif text-xl text-primary mb-2">Libro</h3>
               <p className="text-secondary font-light text-sm mb-2">Primera edicion</p>
-              <p className="text-primary font-light mb-8">$XX.XX</p>
+              <p className="text-primary font-light mb-8">6.000₡ </p>
 
               <a
                 href="https://wa.me/50684164560?text=Hola%20Rebecca,%20me%20interesa%20comprar%20tu%20libro%20SOLA"
