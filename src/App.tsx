@@ -431,15 +431,7 @@ function TiendaSection() {
   return (
     <section id="tienda" className="py-24 lg:py-32 px-6 lg:px-12 bg-background relative overflow-hidden">
       {/* Subtle corner decoration */}
-      <div className="absolute bottom-0 right-0 w-64 h-64 opacity-20 pointer-events-none">
-        <img
-          src="https://images.pexels.com/photos/1765033/pexels-photo-1765033.jpeg?auto=compress&cs=tinysrgb&w=400"
-          alt=""
-          className="w-full h-full object-cover"
-          loading="lazy"
-          aria-hidden="true"
-        />
-      </div>
+
       <div className="max-w-content mx-auto">
         <FadeInSection>
           <h2 className="font-serif text-headline lg:text-display text-primary text-center mb-16 lg:mb-24">
@@ -488,7 +480,7 @@ function TiendaSection() {
             <article className="text-center px-4">
               <div className="w-48 sm:w-56 aspect-[3/4] border border-border mx-auto mb-8 overflow-hidden relative">
                 <img
-                  src="https://images.pexels.com/photos/7102/notes-whiskey-idea-literature.jpg?auto=compress&cs=tinysrgb&w=600"
+                  src="https://images.pexels.com/photos/1765033/pexels-photo-1765033.jpeg?auto=compress&cs=tinysrgb&w=400"
                   alt="Historias Personalizadas"
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"
