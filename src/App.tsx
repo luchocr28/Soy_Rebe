@@ -306,15 +306,7 @@ function ProyectosSection() {
   return (
     <section id="proyectos" className="py-24 lg:py-32 px-6 lg:px-12 bg-background relative">
       {/* Decorative side image - only on large screens */}
-      <div className="hidden xl:block absolute left-0 top-1/2 -translate-y-1/2 w-48 opacity-40 pointer-events-none">
-        <img
-          src="https://images.pexels.com/photos/6923899/pexels-photo-6923899.jpeg?auto=compress&cs=tinysrgb&w=400"
-          alt=""
-          className="w-full h-auto"
-          loading="lazy"
-          aria-hidden="true"
-        />
-      </div>
+
       <div className="max-w-content mx-auto">
         <FadeInSection>
           <h2 className="font-serif text-headline lg:text-display text-primary text-center mb-4">
