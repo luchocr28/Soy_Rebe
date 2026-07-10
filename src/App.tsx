@@ -350,7 +350,7 @@ function LibroSection() {
             <div className="flex justify-center lg:justify-end">
               <div className="relative w-64 sm:w-72 lg:w-80 aspect-[3/4] border border-border shadow-sm overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="images/44774942-C273-4607-99D6-24D784655FFD.jpeg"
                   alt="SOLA - Libro de Rebecca Arroyo"
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"
@@ -445,8 +445,7 @@ function TiendaSection() {
             <article className="text-center">
               <div className="relative w-48 sm:w-56 aspect-[3/4] border border-border mx-auto mb-8 overflow-hidden shadow-sm">
                 <img
-                  src="https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?auto=compress&cs=tinysrgb&w=600"
-                  alt="SOLA - Libro"
+                  src="images/44774942-C273-4607-99D6-24D784655FFD.jpeg"
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"
                 />
@@ -533,7 +532,7 @@ function SobreMiSection() {
             <div className="flex justify-center md:justify-start">
               <div className="w-72 sm:w-80 aspect-[3/4] bg-gradient-to-br from-primary/5 to-primary/10 border border-border relative overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/3756012/pexels-photo-3756012.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="images/WhatsApp Image 2025-10-27 at 2.49.50 PM (1).jpeg"
                   alt="Rebecca Arroyo - Portrait"
                   className="absolute inset-0 w-full h-full object-cover opacity-90"
                   loading="lazy"
